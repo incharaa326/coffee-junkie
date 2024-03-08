@@ -12,4 +12,4 @@
 7. internal and external page navigations
 8. input tags
 
-To see the Live Demo, go to: [Coffee-Junkie Demo](https://incharaa326.github.io/coffee-junkie/){:target="_blank"}
+To see the Live Demo go to: [Coffee-Junkie Demo](https://incharaa326.github.io/coffee-junkie/)
